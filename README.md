@@ -19,15 +19,7 @@ https://OtienoMartha.github.io/week-1-day-4-assignment/
 
 ### Desktop — Light Theme
 
-![Desktop light](screenshots/desktop-light.png)
-
-### Desktop — Dark Theme
-
-![Desktop dark](screenshots/desktop-dark.png)
-
-### Mobile
-
-![Mobile](screenshots/mobile.png)
+![Desktop light](screenshots/portfolio.png)
 
 ## 🎨 What I Built
 
